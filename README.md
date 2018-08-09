@@ -1,4 +1,4 @@
-# second
+# skills
 
 ## Project setup
 ```
